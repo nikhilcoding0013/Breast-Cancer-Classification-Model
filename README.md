@@ -149,4 +149,5 @@ Dataset provided by Obuli Sai Naren via Kaggle. This project was initially devel
 
 ## License
 
+This repository is open source and is released under the MIT License.
 This project uses the Multi Cancer Dataset, which is available under Kaggle's terms of use. Please refer to the original dataset for licensing information.
