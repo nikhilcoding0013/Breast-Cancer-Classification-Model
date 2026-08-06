@@ -145,7 +145,7 @@ The project includes training/validation loss and accuracy plots comparing both 
 
 ## Acknowledgments
 
-Dataset provided by Obuli Sai Naren via Kaggle. This project was initially developed during a 2.5-hour hackathon and subsequently refined through systematic hyperparameter optimization.
+Dataset provided by Obuli Sai Naren via Kaggle.
 
 ## License
 
